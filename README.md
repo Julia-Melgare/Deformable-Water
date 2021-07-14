@@ -1,7 +1,9 @@
 # Interactive Fluid Animation Using Deformable Meshes and Shaders
 ![example1](Gifs/movement.gif)
 
-This application was developed for the Computer Animation discipline of the Msc course in Computer Science at PUCRS. It combines a deformable mesh that is able to interact with rigid bodies alongside a water shader with vertex displacement. For more details regarding the implementation and experiments executed, check out the [technical report](Report.pdf).
+This application was developed for the Computer Animation discipline of the Msc course in Computer Science at PUCRS. It combines a deformable mesh that is able to interact with rigid bodies alongside a water shader with vertex displacement. 
+
+For more details regarding the implementation and experiments executed, check out the [technical report](Report.pdf).
 
 ![example2](Gifs/light-obj.gif)![example2](Gifs/heavy-obj.gif)
 
