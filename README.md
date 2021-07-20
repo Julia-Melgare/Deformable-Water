@@ -1,4 +1,7 @@
 # Interactive Fluid Animation Using Deformable Meshes and Shaders
+
+Checkout a playable online demo [here](https://julia-melgare.github.io/interactive-water-demo/)!
+
 ![example1](Gifs/movement.gif)
 
 This application was developed for the Computer Animation discipline of the Msc course in Computer Science at PUCRS. It combines a deformable mesh that is able to interact with rigid bodies alongside a water shader with vertex displacement. 
